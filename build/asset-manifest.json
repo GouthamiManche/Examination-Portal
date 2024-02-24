@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Examinator/static/css/main.8190da74.chunk.css",
+    "main.js": "/Examinator/static/js/main.c6058815.chunk.js",
+    "main.js.map": "/Examinator/static/js/main.c6058815.chunk.js.map",
+    "runtime-main.js": "/Examinator/static/js/runtime-main.fd09f509.js",
+    "runtime-main.js.map": "/Examinator/static/js/runtime-main.fd09f509.js.map",
+    "static/js/2.4cb53f34.chunk.js": "/Examinator/static/js/2.4cb53f34.chunk.js",
+    "static/js/2.4cb53f34.chunk.js.map": "/Examinator/static/js/2.4cb53f34.chunk.js.map",
+    "static/js/3.a13b9b44.chunk.js": "/Examinator/static/js/3.a13b9b44.chunk.js",
+    "static/js/3.a13b9b44.chunk.js.map": "/Examinator/static/js/3.a13b9b44.chunk.js.map",
+    "index.html": "/Examinator/index.html",
+    "precache-manifest.990e8ce9530ad24e96ad55895fa0d74d.js": "/Examinator/precache-manifest.990e8ce9530ad24e96ad55895fa0d74d.js",
+    "service-worker.js": "/Examinator/service-worker.js",
+    "static/css/main.8190da74.chunk.css.map": "/Examinator/static/css/main.8190da74.chunk.css.map",
+    "static/js/2.4cb53f34.chunk.js.LICENSE.txt": "/Examinator/static/js/2.4cb53f34.chunk.js.LICENSE.txt",
+    "static/media/pngwing.com (1).png": "/Examinator/static/media/pngwing.com (1).9ccdcf8a.png",
+    "static/media/trash_bin-100_copy.jpg": "/Examinator/static/media/trash_bin-100_copy.9c27863c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd09f509.js",
+    "static/js/2.4cb53f34.chunk.js",
+    "static/css/main.8190da74.chunk.css",
+    "static/js/main.c6058815.chunk.js"
+  ]
+}

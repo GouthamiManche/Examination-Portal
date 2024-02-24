@@ -1,0 +1,47 @@
+{
+  "name": "examinator",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://gouthami192001.github.io/Examinator/",
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.16.1",
+    "@testing-library/react": "^12.1.2",
+    "@testing-library/user-event": "^13.5.0",
+    "firebase": "^9.7.0",
+    "firebase-tools": "^13.2.1",
+    "latest-version": "^7.0.0",
+    "react": "^17.0.2",
+    "react-countdown": "^2.3.2",
+    "react-dom": "^17.0.2",
+    "react-native": "^0.71.16",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "^3.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "main -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
