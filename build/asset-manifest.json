@@ -1,26 +1,19 @@
 {
   "files": {
-    "main.css": "/Examinator/static/css/main.8190da74.chunk.css",
-    "main.js": "/Examinator/static/js/main.c6058815.chunk.js",
-    "main.js.map": "/Examinator/static/js/main.c6058815.chunk.js.map",
-    "runtime-main.js": "/Examinator/static/js/runtime-main.fd09f509.js",
-    "runtime-main.js.map": "/Examinator/static/js/runtime-main.fd09f509.js.map",
-    "static/js/2.4cb53f34.chunk.js": "/Examinator/static/js/2.4cb53f34.chunk.js",
-    "static/js/2.4cb53f34.chunk.js.map": "/Examinator/static/js/2.4cb53f34.chunk.js.map",
-    "static/js/3.a13b9b44.chunk.js": "/Examinator/static/js/3.a13b9b44.chunk.js",
-    "static/js/3.a13b9b44.chunk.js.map": "/Examinator/static/js/3.a13b9b44.chunk.js.map",
-    "index.html": "/Examinator/index.html",
-    "precache-manifest.990e8ce9530ad24e96ad55895fa0d74d.js": "/Examinator/precache-manifest.990e8ce9530ad24e96ad55895fa0d74d.js",
-    "service-worker.js": "/Examinator/service-worker.js",
-    "static/css/main.8190da74.chunk.css.map": "/Examinator/static/css/main.8190da74.chunk.css.map",
-    "static/js/2.4cb53f34.chunk.js.LICENSE.txt": "/Examinator/static/js/2.4cb53f34.chunk.js.LICENSE.txt",
-    "static/media/pngwing.com (1).png": "/Examinator/static/media/pngwing.com (1).9ccdcf8a.png",
-    "static/media/trash_bin-100_copy.jpg": "/Examinator/static/media/trash_bin-100_copy.9c27863c.jpg"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.fd09f509.js",
-    "static/js/2.4cb53f34.chunk.js",
-    "static/css/main.8190da74.chunk.css",
-    "static/js/main.c6058815.chunk.js"
-  ]
+    "main.css": "/Gouthami192001/Examination-Portal/static/css/main.8190da74.chunk.css",
+    "main.js": "/Gouthami192001/Examination-Portal/static/js/main.3e76c7f0.chunk.js",
+    "main.js.map": "/Gouthami192001/Examination-Portal/static/js/main.3e76c7f0.chunk.js.map",
+    "runtime~main.js": "/Gouthami192001/Examination-Portal/static/js/runtime~main.ff2eb00a.js",
+    "runtime~main.js.map": "/Gouthami192001/Examination-Portal/static/js/runtime~main.ff2eb00a.js.map",
+    "static/js/2.91a58323.chunk.js": "/Gouthami192001/Examination-Portal/static/js/2.91a58323.chunk.js",
+    "static/js/2.91a58323.chunk.js.map": "/Gouthami192001/Examination-Portal/static/js/2.91a58323.chunk.js.map",
+    "static/js/3.3b6fb9ae.chunk.js": "/Gouthami192001/Examination-Portal/static/js/3.3b6fb9ae.chunk.js",
+    "static/js/3.3b6fb9ae.chunk.js.map": "/Gouthami192001/Examination-Portal/static/js/3.3b6fb9ae.chunk.js.map",
+    "index.html": "/Gouthami192001/Examination-Portal/index.html",
+    "precache-manifest.52a6f0415f58bdd66dfd90eaf370c80c.js": "/Gouthami192001/Examination-Portal/precache-manifest.52a6f0415f58bdd66dfd90eaf370c80c.js",
+    "service-worker.js": "/Gouthami192001/Examination-Portal/service-worker.js",
+    "static/css/main.8190da74.chunk.css.map": "/Gouthami192001/Examination-Portal/static/css/main.8190da74.chunk.css.map",
+    "static/media/pngwing.com (1).png": "/Gouthami192001/Examination-Portal/static/media/pngwing.com (1).9ccdcf8a.png",
+    "static/media/trash_bin-100_copy.jpg": "/Gouthami192001/Examination-Portal/static/media/trash_bin-100_copy.9c27863c.jpg"
+  }
 }
